@@ -4,8 +4,10 @@
    "description": "Compendiums for weapons, armor, gear, and item attachments for a generic fantasy setting",   
    "author": "MidnightRabite",
    "version": "0.1",
-   "minimumCoreVersion": "0.7.10",
+   "minimumCoreVersion": "0.8.0",
    "compatibleCoreVersion": "0.8.8",
+   "system": ["starwarsffg"],
+   "minimumSystemVersion": "1.6",
    "packs": [
    {
 	   "name": "FantasyMelee",
@@ -45,6 +47,6 @@
    ],
    "url": "https://github.com/halfwalk/GenesysFantasyEquipment",
   "manifest": "https://raw.githubusercontent.com/halfwalk/GenesysFantasyEquipment/gen-fantasy-0.1/module.json",
-  "download": "https://github.com/halfwalk/GenesysFantasyEquipment/archive/refs/tags/gf012.zip"
+  "download": "https://github.com/halfwalk/GenesysFantasyEquipment/archive/refs/tags/gf013.zip"
   
 }
